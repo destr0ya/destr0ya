@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @destr0ya, founder of Precision Sports Technology!
+- 👀 I’m interested in computer vision to assess exercise technique.
+- 🌱 I’m currently learning classification algorithms.
+- 💞️ I’m looking to collaborate on software designed to make lifting weights more engaging and rewarding.
+- 📫 You can reach me at emma@precisionsportstech.co!
